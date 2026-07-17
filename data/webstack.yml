@@ -4,7 +4,7 @@
   icon: fa-star
   links: 
     - title: YouTube
-      logo: 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=https://www.youtube.com/
       url: https://www.youtube.com/
       description: youtube首页
     - title: 资源博客
